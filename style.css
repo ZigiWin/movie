@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.container {
+    display: flex;
+    width: 1180px;
+    margin: auto;
+    justify-content: center;
+    padding: 0 20px;
+    gap: 50px;
+}
+header {
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+}
+.header-title {
+    font-size: 14px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+footer {
+    width: 1080px;
+    margin: auto;
+    color: #fff;
+    padding: 20px 0;
+}
+.menu, .contacts {
+    flex: 1;
+}
+
+h3 {
+    margin: 0 0 10px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    margin: 5px 0;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.footer-bottom {
+    color: #878787;
+    text-align: center;
+    padding: 10px 0;
+    border-top: 1px solid #444;
+}
+
+.footer-bottom p {
+    margin: 5px 0;
+}
+
+.logo {
+    color: #8A2BE2; /* Purple color */
+    font-weight: bold;
+    font-size: 16px;
+}
+.events {
+    gap: 20px;
+}
+
+.events a {
+    display: inline-block;
+    margin: 0;
+    flex: 1;
+    text-align: center;
+}
+
+.poster {
+    align-items: center;
+    background: rgba(25, 25, 25, 0.15);
+    border-radius: 10px;
+    display: flex;
+    padding: 20px;
+    width: 1200px;
+}
+
+.date {
+    display: grid;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.day {
+    font-size: 38px;
+    font-weight: bold;
+    color: #333;
+
+}
+
+.month {
+    font-size: 18px;
+    font-weight: normal;
+    color: #666;
+}
+
+.info {
+    margin-left: 50px;
+    flex-grow: 1;
+}
+
+.info h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.info p {
+    font-size: 16px;
+    color: #777;
+}
+
+.details {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    gap: 20px;
+}
+
+.time {
+    font-size: 16px;
+}
+
+.age {
+    border-radius: 5px;
+}
+
+.buy-ticket {
+    background-color: #05B093;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 20px 30px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.image-placeholder {
+    width: 320px;
+    height: 240px;
+    background: rgba(25, 25, 25, 0.30);
+    border-radius: 10px;
+}
+.posters{
+    display: grid;
+    justify-content: center;
+    gap: 80px;
+}
