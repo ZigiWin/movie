@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
 }
-.container {
+.containersa {
     display: flex;
     width: 1180px;
     margin: auto;
@@ -108,3 +108,112 @@ a:hover {
     flex: 1;
     text-align: center;
 }
+
+.title-name{
+    font-family: "EB Garamond", serif;
+    font-weight: 700;
+    font-size:48px;
+    line-height:62.7px;
+    text-align: center;
+
+}
+
+.orchestra-name {
+    font-family: "EB Garamond", serif;
+    font-weight: 700;
+    font-size:24px;
+    line-height:33.6px;
+
+}
+
+.soloist {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-size:16px;
+    line-height:22.4px;
+
+}
+
+.description {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-size:16px;
+    line-height:22.4px;
+
+}
+
+.concert-program {
+    font-family: "EB Garamond", serif;
+    font-weight: 700;
+    font-size:24px;
+    line-height:33.6px;
+
+}
+
+.first-part {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-size:16px;
+    line-height:22.4px;
+
+}
+
+.second-part {
+    font-family: "EB Garamond", serif;
+    font-weight: 700;
+    font-size:24px;
+    line-height:33.6px;
+
+}
+
+.ticket-price {
+    font-family: "EB Garamond", serif;
+    font-weight: 700;
+    font-size:24px;
+    line-height:33.6px;
+
+}
+
+
+.concert-container {
+}
+
+.orchestra-info {
+    display: flex;
+    gap: 134px;
+}
+
+.orchestra-details {
+    width: 526px ;
+    height: 742px ;
+    margin-left: 312px;
+
+}
+
+.concert-description {
+    width:636px ;
+}
+
+.order-button {
+    width:178px ;
+    height:51px ;
+    border-radius: 50px;
+    color: white;
+    background-color: #05B093;
+    text-decoration: none;
+    border: none;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.images-container {
+    display: flex;
+    gap: 24px;
+    margin-bottom: 150px;
+}
+
+.concert-image {
+    width: 306px;
+    height: 210px;
+}
+
