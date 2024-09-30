@@ -59,6 +59,59 @@ require_once 'header.php';
         </div>
     </div>
 </section>
+</section >
+    <div class="event container">
+        <div class="afisha-title">
+        <h1 class="title">Краткие анонсы</h1>
+        <a href="#" class="events-link">
+            <img src="events.svg" alt="">
+            Все мероприятия
+        </a>
+    </div>
+    </div>
+    <div class="events">
+    <div class="event">
+        <div class="event-date">
+            <p class="evendat">
+                3<br> июня
+            </p>
+        </div>
+        <p class="event-name">
+            «ВЕК имени СИНАТРЫ»
+        </p>
+    </div>
+    <div class="event">
+        <div class="event-date">
+            <p class="evendat">
+                3<br> июня
+            </p>
+        </div>
+        <p class="event-name">
+            «ВЕК имени СИНАТРЫ»
+        </p>
+    </div>
+    <div class="event">
+        <div class="event-date">
+            <p class="evendat">
+                3<br> июня
+            </p>
+        </div>
+        <p class="event-name">
+            «ВЕК имени СИНАТРЫ»
+        </p>
+    </div>
+    <div class="event">
+        <div class="event-date">
+            <p class="evendat">
+                3<br> июня
+            </p>
+        </div>
+        <p class="event-name">
+            «ВЕК имени СИНАТРЫ»
+        </p>
+    </div>
+    </div>
+</section>
 <?php
 require_once 'footer.php';
 ?>

@@ -222,3 +222,31 @@ a:hover {
     margin-left: 24px;
 
 }
+.event-date{
+    width:100px ;
+    height:100px ;
+    background-color: #05B093;
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+}
+.evendat{
+    align-items: center;
+    justify-content: center;
+    margin-top: 27px;
+
+}
+.event{
+    display: flex;
+    text-align: center;
+    
+}
+.event-name{
+    align-items: center;
+    padding: 39px 12px 39px 27px ;
+    margin: 0;
+}
+.events{
+    display: flex;
+    margin-left: 312px;
+}
