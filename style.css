@@ -246,7 +246,8 @@ a:hover {
     padding: 39px 12px 39px 27px ;
     margin: 0;
 }
-.events{
+.eventz{
     display: flex;
-    margin-left: 312px;
+    margin: auto;
+    width: 1140px;
 }

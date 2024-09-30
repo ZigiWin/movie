@@ -60,7 +60,7 @@ require_once 'header.php';
     </div>
 </section>
 </section >
-    <div class="event container">
+    <div class="event container" style="margin-top: 160px;">
         <div class="afisha-title">
         <h1 class="title">Краткие анонсы</h1>
         <a href="#" class="events-link">
@@ -69,7 +69,7 @@ require_once 'header.php';
         </a>
     </div>
     </div>
-    <div class="events">
+    <div class="eventz">
     <div class="event">
         <div class="event-date">
             <p class="evendat">
