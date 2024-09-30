@@ -5,7 +5,7 @@ require_once 'header.php';
     <div class="afisha-title">
         <h1 class="title">Афиша</h1>
         <a href="#" class="events-link">
-            <img src="img/events.svg" alt="">
+            <img src="events.svg" alt="">
             Все мероприятия
         </a>
     </div>
@@ -15,7 +15,7 @@ require_once 'header.php';
                 <span class="day">3</span>
                 <span class="month">июня</span>
             </div>
-            <img src="img/poster__image.png" class="image-placeholder">
+            <img src="poster__image.png" class="image-placeholder">
             <div class="info">
                 <h2>«ВЕК имени СИНАТРЫ»</h2>
                 <p>Посвящение Фрэнку Синатре.</p>
@@ -32,7 +32,7 @@ require_once 'header.php';
                 <span class="day">30</span>
                 <span class="month">июня</span>
             </div>
-            <img src="img/poster2__image.png" class="image-placeholder">
+            <img src="poster2__image.png" class="image-placeholder">
             <div class="info">
                 <h2>Опера VS Оперетта</h2>
                 <p>Санкт-Петербургский камерный оркестр Olympic Orchestra</p>
