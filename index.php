@@ -1,6 +1,21 @@
 <?php
 require_once 'header.php';
 ?>
+<section>
+    <div class="imageses">
+        <img src="slider__main-image.png" alt="">
+        <div>
+            <div class="card">
+                <img src="thumb-slider__image.png" alt="">
+                Опера VS Оперетта
+            </div>
+            <div class="card">
+                <img src="thumb-slider__image (1).png" alt="">
+                Антонио Вивальди. Времена года
+            </div>
+        </div>
+    </div>
+</section>
 <section class="afisha">
     <div class="afisha-title">
         <h1 class="title">Афиша</h1>
