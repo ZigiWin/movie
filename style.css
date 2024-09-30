@@ -35,6 +35,60 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+footer {
+    width: 1080px;
+    margin: auto;
+    color: #fff;
+    padding: 20px 0;
+}
+.menu, .contacts {
+    flex: 1;
+}
+
+h3 {
+    margin: 0 0 10px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    margin: 5px 0;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.footer-bottom {
+    color: #878787;
+    text-align: center;
+    padding: 10px 0;
+    border-top: 1px solid #444;
+}
+
+.footer-bottom p {
+    margin: 5px 0;
+}
+
+.logo {
+    color: #8A2BE2; /* Purple color */
+    font-weight: bold;
+    font-size: 16px;
+}
+.events {
+    gap: 20px;
+}
+
+.events a {
+    display: inline-block;
+    margin: 0;
+    flex: 1;
+    text-align: center;
+}
+
 .poster {
     align-items: center;
     background: rgba(25, 25, 25, 0.15);
